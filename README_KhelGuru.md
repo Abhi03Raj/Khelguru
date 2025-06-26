@@ -93,7 +93,26 @@ npm start
 
 ## 📷 Screenshots
 
-> _Add your project screenshots here (UI forms, charts, profile section, etc.)_
+## 📊 Dashboard Preview
+
+![Dashboard](my-app/assets/Dashboard.jpg)
+
+## 🧠 Tips and Drills
+
+![Tips and Drills](my-app/assets/tips_and_drills.jpg)
+
+## 🕸️ Spider Chart Comparison
+
+![Spider Chart](my-app/assets/spider_chart_comaparision.jpg)
+
+## 📁 User History View
+
+![User History](my-app/assets/user_history.jpg)
+
+## 🔄 System Flowchart
+
+![Flowchart](my-app/assets/flowchart.jpg)
+
 
 ---
 
