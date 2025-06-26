@@ -1,0 +1,37 @@
+{
+  "Bronze": {
+    "K/D_Ratio": 5.7,
+    "Avg_Damage": 856.5,
+    "Survival_Time": 24.5,
+    "Win_Rate (%)": 86.8,
+    "Headshot_Rate (%)": 16.5
+  },
+  "Silver": {
+    "K/D_Ratio": 1.8113333333333335,
+    "Avg_Damage": 143.49333333333334,
+    "Survival_Time": 12.1388,
+    "Win_Rate (%)": 6.903333333333333,
+    "Headshot_Rate (%)": 14.8416
+  },
+  "Gold": {
+    "K/D_Ratio": 4.166666666666666,
+    "Avg_Damage": 535.0833333333334,
+    "Survival_Time": 47.86666666666666,
+    "Win_Rate (%)": 53.8,
+    "Headshot_Rate (%)": 16.2
+  },
+  "Platinum": {
+    "K/D_Ratio": 5.11,
+    "Avg_Damage": 794.7900000000001,
+    "Survival_Time": 67.8,
+    "Win_Rate (%)": 49.24000000000001,
+    "Headshot_Rate (%)": 16.22
+  },
+  "Diamond": {
+    "K/D_Ratio": 5.066666666666666,
+    "Avg_Damage": 817.3166666666666,
+    "Survival_Time": 77.78333333333333,
+    "Win_Rate (%)": 63.15,
+    "Headshot_Rate (%)": 16.766666666666666
+  }
+}
